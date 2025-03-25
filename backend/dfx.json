@@ -1,0 +1,15 @@
+{
+    "canisters": {
+      "backend": {
+        "main": "src/organ_donation/main.mo",
+        "type": "motoko"
+      }
+    },
+    "defaults": {
+      "build": {
+        "packtool": ""
+      }
+    },
+    "version": 1
+  }
+  
