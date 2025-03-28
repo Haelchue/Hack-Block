@@ -1,0 +1,13 @@
+{
+  "canisters": {
+    "organ_donation": {
+      "type": "motoko",
+      "main": "src/organ_donation/main.mo"
+    }
+  },
+  "defaults": {
+    "build": {
+      "output": "target/dfx"
+    }
+  }
+}
