@@ -1,8 +1,4 @@
-Here's a README.md template you can use for your project. Just swap in any project-specific details as needed:
-
-markdown
-Copy
-Edit
+#website link https://pransetu-connect.lovable.app/
 # Pransetu
 
 Welcome to **Pransetu** – a rad React app built with Vite, Tailwind CSS, and modern web technologies. If you're down to run this project on your local machine just like I did, follow these instructions.
