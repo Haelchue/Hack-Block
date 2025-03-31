@@ -27,38 +27,29 @@ Pransetu is a sleek web app that features cool UI elements like gradient backgro
 Before you start, make sure you have:
 - **Node.js** (v14 or higher recommended). Download it from [nodejs.org](https://nodejs.org/).
 - **npm** (comes with Node.js). Verify installation with:
-  ```bash
+
   node -v
   npm -v
 Installation
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/your-repo-name.git
 Replace the URL with your actual repository URL.
 
 Navigate to the project directory:
 
-bash
-Copy
-Edit
+
 cd your-repo-name
 Install the dependencies:
 
-bash
-Copy
-Edit
+
 npm install
 This will install everything required for the project.
 
 Running Locally
 Start the development server:
 
-bash
-Copy
-Edit
+
 npm run dev
 Open your browser and head to the URL provided in your terminal (typically http://localhost:5173). You should see the app running!
 
